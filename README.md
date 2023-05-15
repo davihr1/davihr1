@@ -1,14 +1,14 @@
-<img align="right" height="590em" src="https://firebasestorage.googleapis.com/v0/b/aula-105.appspot.com/o/Drive%2F2022-10-27%20(2).png?alt=media&token=df6295ef-9b18-4b94-b133-e277ef9f8845"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Hr</h1>
+<img align="right" height="70" width="100em" src="https://i.pinimg.com/originals/09/01/bb/0901bb81aca5a2863d678cbdf7d25eba.gif"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Henrique</h1>
 
 
-- 🔥 Student at Rocketseat Reactjs
+- 🔥 Software Developer
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Reactjs, TS**
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [davihr - ignite](https://startree.vercel.app)
+- 👨‍💻 More at [davihenrique - devlink](https://atom.vercel.app)
 
 
 <!--
