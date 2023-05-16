@@ -10,6 +10,25 @@
 
 - 👨‍💻 More at [davihenrique - devlink](https://atomplus.vercel.app)
 
+## 🔮 Minha Stack
+ Essas são algumas das tecnologias que uso no dia a dia
+
+<div align="center">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
+</div>
+
+## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/Ricmaloy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihr1&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davihr1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+  
+  ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
