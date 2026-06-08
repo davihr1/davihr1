@@ -1,31 +1,41 @@
-<img align="right" height="70" width="100em" src="https://i.pinimg.com/originals/09/01/bb/0901bb81aca5a2863d678cbdf7d25eba.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Henrique</h1>
 
 
-- 🔥 Engenier student
+Sou um desenvolvedor e entusiasta de tecnologia focado em **Desenvolvimento de Software, Engenharia de Dados e Computação em Nuvem**. Busco constantemente evoluir minhas habilidades para criar soluções eficientes, escaláveis e alinhadas com as principais inovações do mercado, como a Inteligência Artificial.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Reactjs, TS**
+---
 
-- ⚡ Fun fact **Oneye 😜**
+## 🛠️ Habilidades Técnicas
 
-- 👨‍💻 More at [davihenrique - devlink](https://atomplus.vercel.app)
+### 💻 Desenvolvimento & Modelagem
+* **Linguagens:** Java, SQL.
+* **Ferramentas e IDEs:** Android Studio.
+* **Modelagem de Sistemas:** Modelagem UML e arquitetura de dados (Oracle SQL).
 
-## 🔮 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
+### ☁️ Infraestrutura & Cloud
+* **AWS (Amazon Web Services):** Labs práticos em IAM (Identity and Access Management), KMS (Key Management Service) e Modelo de Responsabilidade Compartilhada.
+* **Sistemas & Virtualização:** Configuração de Hyper-V em BIOS e suporte de TI.
 
-<div align="center">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
-</div>
+### 🤖 Inteligência Artificial & Dados
+* [cite_start]**Google AI:** Desenvolvimento de soluções e automações customizadas com IA[cite: 15, 17].
+* [cite_start]**Engenharia de Prompts:** Criação de prompts eficazes para resolução de problemas corporativos e análise de dados[cite: 10, 18].
+* **Saúde Digital:** Interesses e estudos em Governança de Dados em Saúde e Internet das Coisas (IoT).
 
-## 📈 Estatísticas
+---
 
-<div align="center">
-  <a href="https://github.com/Ricmaloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davihr1&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davihr1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
+## 🚀 Projetos e Objetivos
+* 🏢 **Suporte de TI:** Experiência com suporte tecnológico focado em pequenas empresas.
+* 📈 **Evolução Contínua:** Atualmente focado em aprofundar conhecimentos na nuvem AWS, arquitetura de software e inteligência artificial aplicada.
+
+---
+
+## 📫 Como me encontrar
+
+* **LinkedIn:** [Davi Favaro](https://www.linkedin.com/in/davifavaro)
+* **E-mail:** [davihenriquefavaro@gmail.com]
+
+---
+⚡ *“A tecnologia move o mundo, mas a curiosidade e o aprendizado contínuo movem o desenvolvedor.”*
 
   
   ![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
